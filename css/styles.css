@@ -412,7 +412,6 @@ a {
   gap: 24px;
 }
 .logo-customers {
-  width: 168px;
   height: 88px;
   width: calc((100% - 120px) / 6);
 }
