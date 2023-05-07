@@ -442,6 +442,11 @@ a {
 
 /* =====/MAIN-CONTAINER===== */
 /* =====FOOTER===== */
+
+.footer {
+  max-width: 1440px;
+}
+
 .right-part-logo-footer {
   align-items: center;
   padding: 0px;
