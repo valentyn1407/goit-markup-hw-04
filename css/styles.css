@@ -188,6 +188,7 @@ p {
   height: 600px;
   margin-left: auto;
   margin-right: auto;
+  background-color: #2e2f42;
   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
     url(../images/people-office.jpg);
   background-repeat: no-repeat;
@@ -439,10 +440,6 @@ p {
 /* =====/MAIN-CONTAINER===== */
 /* =====FOOTER===== */
 
-.footer {
-  max-width: 1440px;
-}
-
 .right-part-logo-footer {
   align-items: center;
   padding: 0px;
@@ -505,6 +502,7 @@ p {
 }
 
 .footer {
+  max-width: 1440px;
   margin: auto;
   padding: 100px 0;
   background: #2e2f42;
