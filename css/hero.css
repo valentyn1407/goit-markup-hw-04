@@ -1,0 +1,24 @@
+.hero {
+  padding: 188px 0px;
+
+  background-color: var(--navy-blue);
+}
+.hero-title {
+  max-width: 496px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 48px;
+
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  color: var(--white);
+}
+
+.hero-btn {
+  display: block;
+  margin: 0 auto;
+  border-radius: 4px;
+  padding: 16px 32px;
+}
