@@ -14,6 +14,22 @@
   width: 264px;
 }
 
+.features-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+
+  border-radius: 4px;
+  width: 264px;
+  height: 112px;
+  border: 1px solid var(--light-slate);
+  background-color: var(--cloud);
+}
+
+.features-icon {
+}
+
 .features-subtitle {
   margin-bottom: 8px;
 

@@ -4,6 +4,14 @@
   background-color: var(--navy-blue);
 }
 
+.footer-container {
+  display: flex;
+}
+
+.footer-socials {
+  margin-left: 120px;
+}
+
 .footer-slogan {
   max-width: 264px;
 
@@ -13,7 +21,22 @@
   color: var(--cloud);
 }
 
+.social-caption {
+  margin-bottom: 16px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--white);
+}
+
 .logo-footer {
   display: block;
   margin-bottom: 16px;
+}
+
+.footer-socials-link {
+}
+
+.footer-socials-link:hover,
+.footer-socials-link:focus {
+  background-color: var(--green);
 }
