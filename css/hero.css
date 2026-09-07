@@ -1,4 +1,6 @@
 .hero {
+  max-width: 1440px;
+  margin: 0 auto;
   padding: 188px 0px;
 
   background-color: var(--navy-blue);
@@ -8,7 +10,7 @@
       rgba(46, 47, 66, 0.7) 0%,
       rgba(46, 47, 66, 0.7) 100%
     ),
-    url(/images/hero.jpg);
+    url(../images/hero.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -31,4 +33,5 @@
   margin: 0 auto;
   border-radius: 4px;
   padding: 16px 32px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }

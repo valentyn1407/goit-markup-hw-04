@@ -33,6 +33,10 @@
   margin-bottom: 16px;
 }
 
+.footer-social-list {
+  gap: 16px;
+}
+
 .footer-socials-link {
 }
 
